@@ -3,7 +3,7 @@ INSTALLATION INSTRUCTIONS
   <h2>Contact Information:</h2>
 <ul>
 	<li>Name: Harshit Sharma</li>
-	<li>Github Username: <a href="https://github.com/harshitethic">https://github.com/harshitethic</a></li>
+	<li>Github Username: <a href="https://github.com/wasswa007">https://github.com/wasswa007</a></li>
 	<li>Email: harshitsharma.ethic@gmail.com</li>
 	<li>Youtube Video for installation: <a href="https://www.youtube.com/watch?v=rBvVHB2fVoQ">https://www.youtube.com/watch?v=rBvVHB2fVoQ</a></li>
 	<li>Youtube Channel: <a href="https://www.youtube.com/@harshitethic">https://www.youtube.com/@harshitethic</a></li>
