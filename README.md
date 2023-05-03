@@ -2,7 +2,7 @@ INSTALLATION INSTRUCTIONS
 	<p>Code Repository: <a href="https://github.com/wasswa007/gpt-turbo.git">https://github.com/wasswa007/gpt-turbo.git</a></p>
   <h2>Contact Information:</h2>
 <ul>
-	<li>Name: Harshit Sharma</li>
+	<li>Name: Wasswa Julius</li>
 	<li>Github Username: <a href="https://github.com/wasswa007">https://github.com/wasswa007</a></li>
 	<li>Email: harshitsharma.ethic@gmail.com</li>
 	<li>Youtube Video for installation: <a href="https://www.youtube.com/watch?v=rBvVHB2fVoQ">https://www.youtube.com/watch?v=rBvVHB2fVoQ</a></li>
