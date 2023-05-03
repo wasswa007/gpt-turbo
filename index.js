@@ -1,6 +1,6 @@
-const sessionName = "harshitethic";
-const donet = "https://harshitethic.in";
-const owner = ["918708056374"]; // Put your number here ex: ["91xxxxxxxxx"]
+const sessionName = "julius";
+const donet = "https://t.me/cybertechug";
+const owner = ["256758625106"]; // Put your number here ex: ["256xxxxxxxxx"]
 const {
   default: sansekaiConnect,
   useMultiFileAuthState,
@@ -139,13 +139,13 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("HARSHITETHIC", {
+      figlet.textSync("JULIUS", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
         whitespaceBreak: false,
       }),
-      "green"
+      "blue"
     )
   );
 
@@ -279,7 +279,7 @@ async function startHisoka() {
       }
     } else if (connection === "open") {
       console.log(color("Bot success conneted to server", "green"));
-      console.log(color("JOIN: MY TELEGRAM: @harshitethicsupport", "yellow"));
+      console.log(color("JOIN: MY TELEGRAM: @REDangryjoker", "yellow"));
       console.log(color("Type /menu to see menu"));
       client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot started!\n${donet}` });
     }
