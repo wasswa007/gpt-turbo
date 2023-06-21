@@ -1,4 +1,4 @@
-const sessionName = "julius";
+const sessionName = "joker";
 const donet = "https://t.me/cybertechug";
 const owner = ["256758625106"]; // Put your number here ex: ["256xxxxxxxxx"]
 const {
@@ -152,7 +152,7 @@ async function startHisoka() {
   const client = sansekaiConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["CODER: Harshitethic - BOT", "Safari", "5.1.7"],
+    browser: ["DEVELOPER: REDJOKER - BOT", "Safari", "5.1.7"],
     auth: state,
   });
 
@@ -265,7 +265,7 @@ async function startHisoka() {
         console.log("Connection Replaced, Another New Session Opened, Please Restart Bot");
         process.exit();
       } else if (reason === DisconnectReason.loggedOut) {
-        console.log(`Device Logged Out, Please Delete Folder Session harshitethic and Scan Again.`);
+        console.log(`Device Logged Out, Please Delete Folder Session joker and Scan Again.`);
         process.exit();
       } else if (reason === DisconnectReason.restartRequired) {
         console.log("Restart Required, Restarting...");
