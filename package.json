@@ -18,7 +18,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/harshitethic/whatsapp-turbo-gpt",
+  "base": "https://github.com/wasswa007/gpt-turbo",
   "author": "Harshit Sharma",
   "license": "MIT",
   "dependencies": {
